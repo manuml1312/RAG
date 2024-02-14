@@ -12,3 +12,5 @@ tensorflow
 flax
 llama_hub
 openai
+langchain
+unstructured[pdf]
